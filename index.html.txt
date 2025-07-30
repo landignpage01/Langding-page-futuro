@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VideoAIPro - Vídeos com IA do Futuro</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+</head>
+<body>
+    <!-- Partículas de fundo -->
+    <div id="particles-js"></div>
+    
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="hologram-container">
+            <div class="hologram-text">
+                <h1 class="glitch" data-text="AI-POWERED VIDEOS">AI-POWERED VIDEOS</h1>
+                <h2 class="neon-text">Visual Marketing for Your Business</h2>
+                <p class="subtitle">Conteúdo profissional sem precisar mostrar seu rosto</p>
+                
+                <!-- CTA Principal com efeito urgência -->
+                <div class="cta-container">
+                    <a href="https://wa.me/5587991524330?text=Olá%2C%20gostaria%20de%20solicitar%20minha%20amostra%20grátis%20de%20vídeo%20com%20IA." class="cta-button pulse">
+                        <i class="fas fa-rocket"></i>
+                        AMOSTRA GRÁTIS - ÚLTIMAS HORAS!
+                        <div class="countdown-timer">
+                            <span id="countdown">23:59:45</span>
+                        </div>
+                    </a>
+                </div>
+            </div>
+            
+            <!-- Elementos holográficos -->
+            <div class="hologram-elements">
+                <div class="floating-icon" data-icon="🤖"></div>
+                <div class="floating-icon" data-icon="🎬"></div>
+                <div class="floating-icon" data-icon="⚡"></div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Proposta de Valor -->
+    <section class="value-proposition">
+        <div class="container">
+            <h2 class="section-title">O FUTURO DO MARKETING VISUAL</h2>
+            <div class="benefits-grid">
+                <div class="benefit-card">
+                    <div class="icon-container">
+                        <i class="fas fa-robot animated-icon"></i>
+                    </div>
+                    <h3>Vídeos com IA que Conectam e Vendem</h3>
+                    <p>Crie conteúdo profissional sem aparecer</p>
+                </div>
+                
+                <div class="benefit-card">
+                    <div class="icon-container">
+                        <i class="fas fa-fire animated-icon"></i>
+                    </div>
+                    <h3>Reels Prontos para Viralizar</h3>
+                    <p>Conteúdo otimizado para Instagram, TikTok e anúncios</p>
+                </div>
+                
+                <div class="benefit-card">
+                    <div class="icon-container">
+                        <i class="fas fa-chart-line animated-icon"></i>
+                    </div>
+                    <h3>Funnels Visuais que Disparam Conversões</h3>
+                    <p>Transforme visitantes em clientes com jornadas visuais</p>
+                </div>
+                
+                <div class="benefit-card">
+                    <div class="icon-container">
+                        <i class="fas fa-bolt animated-icon"></i>
+                    </div>
+                    <h3>Edição Profissional e Ágil</h3>
+                    <p>Entregas internacionais com qualidade impecável</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Serviços -->
+    <section class="services">
+        <div class="container">
+            <h2 class="section-title">NOSSAS SOLUÇÕES DE PONTA</h2>
+            <div class="services-grid">
+                <div class="service-card">
+                    <div class="service-icon">
+                        <i class="fas fa-user-robot"></i>
+                    </div>
+                    <h3>Vídeos com Avatares de IA que Conectam e Vendem</h3>
+                    <p>Produções profissionais com avatares realistas, sem a necessidade de câmera</p>
+                </div>
+                
+                <div class="service-card">
+                    <div class="service-icon">
+                        <i class="fas fa-magic"></i>
+                    </div>
+                    <h3>Edição Profissional que Transforma Suas Ideias em Conteúdo Viral</h3>
+                    <p>Legendas animadas, design moderno e elementos visuais que cativam</p>
+                </div>
+                
+                <div class="service-card">
+                    <div class="service-icon">
+                        <i class="fas fa-target"></i>
+                    </div>
+                    <h3>Criativos Otimizados para Anúncios que Geram Resultados Reais</h3>
+                    <p>Conteúdo de alta performance para Reels, Stories, Shorts e mídias sociais</p>
+                </div>
+                
+                <div class="service-card">
+                    <div class="service-icon">
+                        <i class="fas fa-brain"></i>
+                    </div>
+                    <h3>Conteúdo Estratégico para o Sucesso</h3>
+                    <p>Ideal para coaches, consultores, afiliados e e-commerce que buscam crescimento</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Planos -->
+    <section class="pricing">
+        <div class="container">
+            <h2 class="section-title">PLANOS DE MISSÃO</h2>
+            <div class="pricing-grid">
+                <div class="pricing-card">
+                    <div class="plan-header">
+                        <h3>Video IA Express</h3>
+                        <div class="price">€84,90<span>/semana</span></div>
+                    </div>
+                    <ul class="features">
+                        <li><i class="fas fa-check"></i> 3 vídeos curtos por semana (15–60s)</li>
+                        <li><i class="fas fa-check"></i> IA voiceover ou avatar</li>
+                        <li><i class="fas fa-check"></i> Legendas animadas + copy CTA</li>
+                        <li><i class="fas fa-check"></i> Otimizado para Reels, TikTok, Shorts</li>
+                    </ul>
+                    <a href="https://wa.me/5587991524330?text=Olá%2C%20gostaria%20de%20negociar%20o%20pacote%20Video%20IA%20Express." class="plan-cta">
+                        NEGOCIAR VIA WHATSAPP
+                    </a>
+                </div>
+                
+                <div class="pricing-card popular">
+                    <div class="popular-badge">MAIS POPULAR</div>
+                    <div class="plan-header">
+                        <h3>Traffic + Creatives</h3>
+                        <div class="price">€184,90<span>/mês</span></div>
+                    </div>
+                    <ul class="features">
+                        <li><i class="fas fa-check"></i> 2 criativos por semana (imagem ou vídeo)</li>
+                        <li><i class="fas fa-check"></i> Estratégia Meta Ads + copy</li>
+                        <li><i class="fas fa-check"></i> Relatório básico de performance</li>
+                        <li><i class="fas fa-check"></i> Otimização contínua</li>
+                    </ul>
+                    <a href="https://wa.me/5587991524330?text=Olá%2C%20gostaria%20de%20negociar%20o%20pacote%20Traffic%20%2B%20Creatives." class="plan-cta">
+                        NEGOCIAR VIA WHATSAPP
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contato Final -->
+    <section class="contact">
+        <div class="container">
+            <h2 class="section-title">INICIE SUA JORNADA PARA O SUCESSO!</h2>
+            <div class="contact-grid">
+                <a href="https://wa.me/5587991524330" class="contact-item whatsapp">
+                    <i class="fab fa-whatsapp"></i>
+                    <span>WhatsApp</span>
+                </a>
+                <a href="mailto:josealves.shop18@gmail.com" class="contact-item email">
+                    <i class="fas fa-envelope"></i>
+                    <span>Email</span>
+                </a>
+                <a href="https://instagram.com/videoaipro" class="contact-item instagram">
+                    <i class="fab fa-instagram"></i>
+                    <span>Instagram</span>
+                </a>
+                <a href="https://tiktok.com/@ai.videoediting" class="contact-item tiktok">
+                    <i class="fab fa-tiktok"></i>
+                    <span>TikTok</span>
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
